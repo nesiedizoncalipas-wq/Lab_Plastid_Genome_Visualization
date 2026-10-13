@@ -1,43 +1,39 @@
-# Visualize Plastid Genome Structure
+1. What is the scientific name and accession number of your selected plastid genome?
 
-## Lab Questions and Answers
+The scientific name is Glycine soja, isolate HAAS216. The GenBank accession number is PX591265.1.
 
-## 1. What is the scientific name of your chosen plant and its plastid genome accession number?
-
-The scientific name of my chosen plant is *Glycine soja*, specifically isolate HAAS216. Its NCBI GenBank accession number is PX591265.1.
-
-## 2. What is the total length of the plastid genome in base pairs?
+2. What is the total length of the plastid genome?
 
 The total length of the chloroplast genome is 152,222 base pairs (bp).
 
-## 3. Can you identify the LSC, SSC, IRa, and IRb regions on your map? Briefly describe their positions.
+3. Identify the LSC, SSC, IRa, and IRb regions.
 
-The LSC is the large single-copy region, while the SSC is the smaller single-copy region. IRa and IRb are the two inverted repeat regions that contain duplicated parts of the genome.
+The genome map shows four main regions: the Large Single Copy (LSC), Small Single Copy (SSC), and two Inverted Repeat regions (IRa and IRb). The inverted repeats contain duplicated sections of the genome.
 
-## 4. Give three examples of genes located in the LSC region.
+4. Name three genes found in the LSC region.
 
-Three examples are *psbA*, *rbcL*, and *atpB*. These genes are involved in photosynthesis and other important chloroplast functions. Their exact locations should be checked against the genome map.
+Three genes to identify in the LSC region are psbA, rbcL, and atpB.
 
-## 5. Give at least one example of a gene located in the SSC region.
+5. Name one gene found in the SSC region.
 
-One example is ndhF. This gene is associated with the NADH dehydrogenase-like complex and plays a role in photosynthetic electron transport.
+One gene to identify in the SSC region is ndhF.
 
-## 6. Give at least one example of a gene that occurs within an inverted repeat region. Is the gene shown more than once because of the duplicated IR regions?
+6. Name one gene found in the IR region. Is it duplicated?
 
-One example is ndhB. It can appear twice on the genome map because the two inverted repeat regions contain duplicated copies of part of the genome.
+The ndhB gene is commonly found in the inverted repeat region of plastid genomes. Genes located within the inverted repeats are generally duplicated, with a copy in each repeat. The exact gene location should be checked against the genome map.
 
-## 7. Choose one photosynthesis-related gene visible on your map. State its gene name and its general biological function.
+7. Identify one photosynthesis-related gene and explain its function.
 
-I chose psbA. This gene codes for the D1 protein of Photosystem II, which is important in the light-dependent reactions of photosynthesis.
+The psbA gene is related to photosynthesis. It encodes the D1 protein of Photosystem II, which helps in the light-dependent reactions of photosynthesis.
 
-## 8. What does the direction of the gene arrows or gene orientation tell you about transcription on the plastid genome?
+8. What do the arrows on the genes represent?
 
-The arrows show the direction in which the genes are transcribed. Genes pointing in different directions are transcribed from different DNA strands. This helps show how the genes are arranged around the chloroplast genome.
+The arrows show the direction of the genes and their transcription orientation. They help indicate which direction the genetic information is read during transcription.
 
-## 9. Look at the GC content graph. Does GC content appear uniform across the entire plastid genome, or does it vary among regions? Describe what you observe without over-interpreting it.
+9. Is the GC content uniform throughout the genome, or does it vary?
 
-The overall GC content of my sequence is about 35.37%. The graph can be used to observe whether GC content changes across different parts of the genome. I would describe the pattern based on the graph without assuming what causes the differences.
+The GC content can vary across different regions of the genome. The GC content ring on the map helps show these differences. The overall GC content is approximately 35.37%.
 
-## 10. Why is a graphical plastid genome map useful compared with viewing only the raw DNA sequence or a long list of annotations?
+10. Why is a graphical genome map useful compared with a raw DNA sequence?
 
-A graphical plastid genome map is useful because it makes the genome easier to understand. It shows the major regions, gene locations, gene directions, and GC-content pattern in one figure. It is easier to see the overall organization this way than by reading a long DNA sequence or list of annotations.
+A graphical genome map makes it easier to understand the organization of the plastid genome. It shows the locations of genes, the LSC, SSC, and inverted repeat regions, gene directions, and GC content. This makes the genome easier to interpret than a long raw DNA sequence.
