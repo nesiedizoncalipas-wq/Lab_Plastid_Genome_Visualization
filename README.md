@@ -1,6 +1,6 @@
 # Visualize Plastid Genome Structure
 
-**Student Name:**Nesie D. Calipas
+**Student Name:** Nesie D. Calipas
 
 **Course:** Cell and Molecular Biology
 
