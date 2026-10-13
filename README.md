@@ -2,8 +2,6 @@
 
 **Student Name:** Nesie D. Calipas
 
-**Course:** Cell and Molecular Biology
-
 ## Overview
 
 In this laboratory activity, I used OGDRAW to create a circular plastid genome map of *Glycine soja* isolate HAAS216. The purpose of this activity was to visualize the genome structure, identify its major regions, examine gene locations and directions, and observe the GC content.
